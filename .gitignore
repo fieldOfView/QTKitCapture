@@ -5,3 +5,4 @@
 *.user
 .DS_Store
 Build/
+xcuserdata/
