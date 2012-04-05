@@ -5,8 +5,8 @@
 //  Copyright (c) Aldo Hoeben / fieldOfView
 //  All rights reserved.
 //
-//  A large portion of the plug-in is based on code posted by Adam on stackoverflow:
-//  http://stackoverflow.com/questions/7975329/creating-a-selectable-video-input-patch-for-quartz-muxed-inputs-fail
+//  A large portion of the plug-in is based on code posted by Adam Fenn on Kineme.net:
+//  http://kineme.net/forum/Programming/SelectableVideoInput
 //  
 //  Redistribution and use in source and binary forms, with or without modification, are permitted provided that
 //  the following conditions are met:
